@@ -12,7 +12,7 @@ NSA/DHS CAE-CD designated program
 'Splunk' 'Velociraptor' 'Ghidra' 'IDA Pro' 'Metasploit' 'Nmap' 'WinDbg' 'Malcolm' 'Suricata' 'Zeek'  'Python' 'Bash' 'PowerShell' 'VQL' 'x86 ASM' 'Kali Linux' 'VMware'
 
 ## Certifications
-- CompTIA Security+ *(in progress - target Q3 2026)*
+- CompTIA Security+ *(in progress - Expected December 2026)*
 
 ## Featured Work
 - [HTB Writeups] (https://github.com/blakeusf/htb-writeups) - HackTheBox machine walkthroughs
